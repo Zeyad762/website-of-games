@@ -1,0 +1,364 @@
+body{
+margin: opx;
+padding: 0px;    
+    
+}
+
+div.maincontent{
+height: 680px;
+background-image: url('gaming photos/th.jpeg');    
+ background-size: 50%;
+    
+    
+}
+
+
+div.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:rgba(0, 0, 0, 0.6);
+    
+    
+}
+
+
+*{
+    font-family: arial;
+}
+
+
+
+
+div.navbar a{
+ color: white;
+margin:23px;    
+}
+
+div.joinnavbar{
+background-color: black;
+    
+    
+}
+
+
+
+div.navbar a.join{
+ padding: 10px;   
+border-radius: 10px;
+border: 2px solid white;
+background-color: transparent;
+color: white;
+background-color: black;
+    
+}
+
+div.details{
+    text-align: center;
+    padding: 170px;
+    color: white;
+font-family: arial;    
+}
+
+div.details button{
+    padding: 10px;   
+border-radius: 10px;
+border: 2px solid white;
+background-color: aqua;
+color: black;
+border: none;    
+
+}
+
+div.maingame{
+display: flex;
+justify-content: center;
+width: 60%;    
+margin: auto;
+align-items: center;
+color:black;
+padding: 50px;    
+border-radius: 20px;
+margin-top: 150px;    
+line-height: 23px;
+background-image: url('Gaming photos/b-image2.jpeg')    
+    
+}
+
+div.maingame button{
+    
+     padding: 10px;   
+border-radius: 10px;
+border: 2px solid white;
+background-color: aqua;
+color: black;
+border: none;
+}
+
+div.maingame img{
+margin-right: -100px;
+    border-radius: 20px; }   
+     
+
+
+div.Games{
+  justify-content: center;
+    display: flex;
+    margin-top: 120px;
+    padding: 20px;
+    border-radius:40px;
+    align-items: center;
+    background-image: url('Gaming photos/b-image.jpeg');
+    text-align: center;
+}
+
+div.Games img{
+border-radius: 70px;     
+}
+
+div.posts{
+    
+display: flex;
+width: 70%;
+margin: auto;
+justify-content: space-around;
+align-items: center;    
+ background-image: url('Gaming photos/bc.jpg')  
+}
+
+div.post{
+    margin: 25px;
+    background-color: darkviolet;
+    color:black;
+    border-radius: 8px;
+}
+
+div.post1 div.img, div.post2 div.img, div.post3 div.img {
+
+background-image: url('Gaming photos/post 1.jpg');
+height: 150px;    
+background-position: center;
+background-size: cover;    
+ border-radius: 8px;   
+    
+}
+
+div.post2 div.img{
+ background-image: url('Gaming photos/post 2.jpg');   
+    
+}
+
+div.post3 div.img{
+background-image: url('Gaming photos/post 3.jpg');    
+    
+
+}
+
+
+div.post h3, div.post h5, div.post p{
+padding-right: 10px;
+padding-left: 10px;    
+    
+}
+
+
+div.post p{
+font-size: 15px;
+text-align: left;    
+}
+
+
+
+div.post h5, div.post p{
+    display: inline-block;
+    
+}
+
+div.postscontent h1{
+    
+     text-align: center;
+}
+
+div.postscontent p{
+    text-align: center;
+    
+}
+
+div.testis{
+ display: flex;
+width: 50%;
+margin: auto;
+justify-content: space-around;
+align-items: center; 
+background-image: url('Gaming photos/bcb.jpeg')    
+    
+}
+
+div.testi{
+background-color: black;
+color: aqua;
+margin: 20px;
+text-align: center;
+border-radius: 8px;    
+    
+}
+    
+div.test h1{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+div.testi1 div.img{
+background-image: url('Gaming photos/man.png');
+height: 80px;    
+    
+}
+
+div.testi2 div.img{
+background-image: url('Gaming photos/woman.png');
+height: 80px;    
+}
+
+div.testi div.img{
+width: 100px;
+background-color: white;
+height: 100px;
+margin: auto;
+border-radius: 100px;    
+margin-top: -50px;
+background-size: cover;
+background-position: center;
+border: 1px solid black;    
+    
+}
+
+div.pricing h2{
+text-align: center;    
+    
+}
+
+div.prices{
+display: flex;
+justify-content: center;
+width: 60%;
+margin: auto;
+text-align: center;
+
+
+}
+
+div.price{
+width: 30%;
+background-color: darkcyan;
+color: white;
+margin: 8px;
+padding-bottom: 15px;
+padding-top: 15px;
+border-radius: 8px;    
+    
+}
+
+div.price button{
+  padding: 10px;   
+border-radius: 10px;
+border: 2px solid white;
+background-color: transparent;
+color: white;
+border: 1px solid white;
+
+
+}
+
+div.planprice{
+background-color: darkgray;
+padding-bottom: 10px;    
+    
+    
+}
+
+
+div.planprice h3{
+margin: 0px;    
+
+}
+
+
+div.joinform{
+    
+display: flex;
+justify-content: center;    
+margin: auto;
+width: 65%;
+border: 1px solid black;
+border-radius: 10px; 
+margin-top: 50px;    
+}    
+
+
+
+
+
+div.joinform .form,{
+width: 30%;    
+    
+}
+
+div.joinform .image{
+    width: 70%;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+div.joinform .image{
+background-image: url('Gaming photos/fantasty1.jpg');
+background-size: cover;
+background-position: bottom;
+height: 400px;
+padding: 15px;
+
+}
+
+
+form input , form button{
+padding: 10px;
+font-size: 16px;
+border: 1px solid black;
+border-radius: 5px;
+display: block;    
+margin: 10px;    
+    
+}
+
+form{
+    
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+
+form button{
+background: blue;
+color: white;
+    
+}
+
+div.footer{
+color: white;
+background-color: black;
+text-align: center;
+padding: 10px;
+margin-top: 50px;    
+
+
+}
+
+
+
+
+
+
